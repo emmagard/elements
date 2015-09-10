@@ -1,0 +1,653 @@
+{
+  "elements": [
+    {
+      "name":"Hydrogen",
+      "abbrev":"H",
+      "number": 1
+    },
+    {
+      "name":"Helium",
+      "abbrev":"He",
+      "number": 2
+    },
+    {
+      "name":"Lithium",
+      "abbrev":"He",
+      "number": 3
+    },
+    {
+      "name":"Beryllium",
+      "abbrev":"Be",
+      "number": 4
+    },
+    {
+      "name":"Boron",
+      "abbrev":"B",
+      "number": 5
+    },
+    {
+      "name":"Carbon",
+      "abbrev":"C",
+      "number": 6
+    },
+    {
+      "name":"Nitrogen",
+      "abbrev":"N",
+      "number": 7
+    },
+    {
+      "name":"Oxygen",
+      "abbrev":"O",
+      "number": 8
+    },
+    {
+      "name":"Flourine",
+      "abbrev":"F",
+      "number": 9
+    },
+    {
+      "name":"Neon",
+      "abbrev":"Ne",
+      "number": 10
+    },
+    {
+      "name":"Sodium",
+      "abbrev":"Na",
+      "number": 11
+    },
+    {
+      "name":"Magnesium",
+      "abbrev":"Mg",
+      "number": 12
+    },
+    {
+      "name":"Aluminum",
+      "abbrev":"Al",
+      "number": 13
+    },
+    {
+      "name":"Silicon",
+      "abbrev":"Si",
+      "number": 14
+    },
+    {
+      "name":"Phosphorus",
+      "abbrev":"P",
+      "number": 15
+    },
+    {
+      "name":"Sulfur",
+      "abbrev":"S",
+      "number": 16
+    },
+    {
+      "name":"Chlorine",
+      "abbrev":"Cl",
+      "number": 17
+    },
+    {
+      "name":"Argon",
+      "abbrev":"Ar",
+      "number": 18
+    },
+    {
+      "name":"Potassium",
+      "abbrev":"K",
+      "number": 19
+    },
+    {
+      "name":"Calcium",
+      "abbrev":"Ca",
+      "number": 20
+    },
+    {
+      "name":"Scandium",
+      "abbrev":"Sc",
+      "number": 21
+    },
+    {
+      "name":"Titanium",
+      "abbrev":"Ti",
+      "number": 22
+    },
+    {
+      "name":"Vanadium",
+      "abbrev":"V",
+      "number": 23
+    },
+    {
+      "name":"Chromium",
+      "abbrev":"Cr",
+      "number": 24
+    },
+    {
+      "name":"Manganese",
+      "abbrev":"Mn",
+      "number": 25
+    },
+    {
+      "name":"Iron",
+      "abbrev":"Fe",
+      "number": 26
+    },
+    {
+      "name":"Cobalt",
+      "abbrev":"Co",
+      "number": 27
+    },
+    {
+      "name":"Nickel",
+      "abbrev":"Ni",
+      "number": 28
+    },
+    {
+      "name":"Copper",
+      "abbrev":"Cu",
+      "number": 29
+    },
+    {
+      "name":"Zinc",
+      "abbrev":"Zn",
+      "number": 30
+    },
+    {
+      "name":"Gallium",
+      "abbrev":"Ga",
+      "number": 31
+    },
+    {
+      "name":"Germanium",
+      "abbrev":"Ge",
+      "number": 32
+    },
+    {
+      "name":"Arsenic",
+      "abbrev":"As",
+      "number": 33
+    },
+    {
+      "name":"Selenium",
+      "abbrev":"Se",
+      "number": 34
+    },
+    {
+      "name":"Bromine",
+      "abbrev":"Br",
+      "number": 35
+    },
+    {
+      "name":"Krypton",
+      "abbrev":"Kr",
+      "number": 36
+    },
+    {
+      "name":"Rubidium",
+      "abbrev":"Rb",
+      "number": 37
+    },
+    {
+      "name":"Strontium",
+      "abbrev":"Sr",
+      "number": 38
+    },
+    {
+      "name":"Yttrium",
+      "abbrev":"Y",
+      "number": 39
+    },
+    {
+      "name":"Zirconium",
+      "abbrev":"Zr",
+      "number": 40
+    },
+    {
+      "name":"Niobium",
+      "abbrev":"Nb",
+      "number": 41
+    },
+    {
+      "name":"Molybdenum",
+      "abbrev":"Mo",
+      "number": 42
+    },
+    {
+      "name":"Technetium",
+      "abbrev":"Tc",
+      "number": 43
+    },
+    {
+      "name":"Ruthenium",
+      "abbrev":"Ru",
+      "number": 44
+    },
+    {
+      "name":"Rhodium",
+      "abbrev":"Rh",
+      "number": 45
+    },
+    {
+      "name":"Palladium",
+      "abbrev":"Pd",
+      "number": 46
+    },
+    {
+      "name":"Silver",
+      "abbrev":"Ag",
+      "number": 47
+    },
+    {
+      "name":"Cadmium",
+      "abbrev":"Cd",
+      "number": 48
+    },
+    {
+      "name":"Indium",
+      "abbrev":"In",
+      "number": 49
+    },
+    {
+      "name":"Tin",
+      "abbrev":"Sn",
+      "number": 50
+    },
+    {
+      "name":"Antimony",
+      "abbrev":"Sb",
+      "number": 51
+    },
+    {
+      "name":"Tellurium",
+      "abbrev":"Te",
+      "number": 52
+    },
+    {
+      "name":"Iodine",
+      "abbrev":"I",
+      "number": 53
+    },
+    {
+      "name":"Xenon",
+      "abbrev":"Xe",
+      "number": 54
+    },
+    {
+      "name":"Caesium",
+      "abbrev":"Cs",
+      "number": 55
+    },
+    {
+      "name":"Barium",
+      "abbrev":"Ba",
+      "number": 56
+    },
+    {
+      "name":"Lanthanum",
+      "abbrev":"La",
+      "number": 57,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Cerium",
+      "abbrev":"Ce",
+      "number": 58,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Praseodymium",
+      "abbrev":"Pr",
+      "number": 59,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Neodymium",
+      "abbrev":"Nd",
+      "number": 60,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Promethium",
+      "abbrev":"Pm",
+      "number": 61,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Samarium",
+      "abbrev":"Sm",
+      "number": 62,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Europium",
+      "abbrev":"Eu",
+      "number": 63,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Gadolinium",
+      "abbrev":"Gd",
+      "number": 64,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Terbium",
+      "abbrev":"Tb",
+      "number": 65,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Dysprosium",
+      "abbrev":"Dy",
+      "number": 66,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Holmium",
+      "abbrev":"Ho",
+      "number": 67,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Erbium",
+      "abbrev":"Er",
+      "number": 68,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Thulium",
+      "abbrev":"Tm",
+      "number": 69,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Ytterbium",
+      "abbrev":"Yb",
+      "number": 70,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Lutetium",
+      "abbrev":"Lu",
+      "number": 71,
+      "category": "lanthanide"
+    },
+    {
+      "name":"Hafnium",
+      "abbrev":"Hf",
+      "number": 72,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Tantalum",
+      "abbrev":"Ta",
+      "number": 73,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Tungsten",
+      "abbrev":"W",
+      "number": 74,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Rhenium",
+      "abbrev":"Re",
+      "number": 75,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Osmium",
+      "abbrev":"Os",
+      "number": 76,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Iridium",
+      "abbrev":"Ir",
+      "number": 77,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Platinum",
+      "abbrev":"Pt",
+      "number": 78,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Gold",
+      "abbrev":"Au",
+      "number": 79,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Mercury",
+      "abbrev":"Hg",
+      "number": 80,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Thallium",
+      "abbrev":"Tl",
+      "number": 81,
+      "category":"basic-metal"
+    },
+    {
+      "name":"Lead",
+      "abbrev":"Pb",
+      "number": 82,
+      "category":"basic-metal"
+    },
+    {
+      "name":"Bismuth",
+      "abbrev":"Bi",
+      "number": 83,
+      "category":"basic-metal"
+    },
+    {
+      "name":"Polonium",
+      "abbrev":"Po",
+      "number": 84,
+      "category":"semi-metal"
+    },
+    {
+      "name":"Astatine",
+      "abbrev":"At",
+      "number": 85,
+      "category":"halogen"
+    },
+    {
+      "name":"Radon",
+      "abbrev":"Rn",
+      "number": 86,
+      "category":"noble gas"
+    },
+    {
+      "name":"Francium",
+      "abbrev":"Fr",
+      "number": 87
+    },
+    {
+      "name":"Radium",
+      "abbrev":"Ra",
+      "number": 88,
+      "category":"alkaline earth metal"
+    },
+    {
+      "name":"Actinium",
+      "abbrev":"Ac",
+      "number": 89,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Thorium",
+      "abbrev":"Th",
+      "number": 90,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Protactinium",
+      "abbrev":"Pa",
+      "number": 91,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Uranium",
+      "abbrev":"U",
+      "number": 92,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Neptunium",
+      "abbrev":"Np",
+      "number": 93
+    },
+    {
+      "name":"Plutonium",
+      "abbrev":"Pu",
+      "number": 94
+    },
+    {
+      "name":"Americium",
+      "abbrev":"Am",
+      "number": 95,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Curium",
+      "abbrev":"Cm",
+      "number": 96,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Berkelium",
+      "abbrev":"Bk",
+      "number": 97,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Californium",
+      "abbrev":"Cf",
+      "number": 98,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Einsteinium",
+      "abbrev":"Es",
+      "number": 99,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Fermium",
+      "abbrev":"Fm",
+      "number": 100,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Mendelevium",
+      "abbrev":"Md",
+      "number": 101,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Nobelium",
+      "abbrev":"No",
+      "number": 102,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Lawrencium",
+      "abbrev":"Lr",
+      "number": 103,
+      "category":"Actinoid"
+    },
+    {
+      "name":"Rutherfordium",
+      "abbrev":"Rf",
+      "number": 104,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Dubnium",
+      "abbrev":"Db",
+      "number": 105,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Seaborgium",
+      "abbrev":"Sg",
+      "number": 106,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Bohrium",
+      "abbrev":"Bh",
+      "number": 107,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Hassium",
+      "abbrev":"Hs",
+      "number": 108,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Meitnerium",
+      "abbrev":"Mt",
+      "number": 109,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Darmstadtium",
+      "abbrev":"Ds",
+      "number": 110,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Roentgenium",
+      "abbrev":"Rg",
+      "number": 111,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Copernicium",
+      "abbrev":"Cn",
+      "number": 112,
+      "category":"transition-metal"
+    },
+    {
+      "name":"Ununtrium",
+      "abbrev":"Uut",
+      "number": 113,
+      "category":"basic-metal"
+    },
+    {
+      "name":"Flerovium",
+      "abbrev":"Fl",
+      "number": 114,
+      "category":"basic-metal"
+    },
+    {
+      "name":"Ununpentium",
+      "abbrev":"Uup",
+      "number": 115,
+      "category":"basic-metal"
+    },
+    {
+      "name":"Livermorium",
+      "abbrev":"Lv",
+      "number": 116,
+      "category":"basic-metal"
+    },
+    {
+      "name":"Ununseptium",
+      "abbrev":"Uus",
+      "number": 117,
+      "category":"halogen"
+    },
+    {
+      "name":"Ununoctium",
+      "abbrev":"Uuo",
+      "number": 118,
+      "category":"noble"
+    }
+  ]
+}
