@@ -1,0 +1,17 @@
+<div class="row row6">
+  <% data.elements.elements[54..55].each do |element| %>
+    <div class="box left <%= element.category %>">
+      <p class="abbrev"><%= element.abbrev %></p>
+      <p class="name"><%= element.name %></p>
+    </div>
+  <% end %>
+
+  <div class="box left lanthanide">*</div>
+
+  <% data.elements.elements[71..85].each do |element| %>
+    <div class="box left <%= element.category %>">
+      <p class="abbrev"><%= element.abbrev %></p>
+      <p class="name"><%= element.name %></p>
+    </div>
+  <% end %>
+</div>

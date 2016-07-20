@@ -1,8 +1,14 @@
 @charset "utf-8";
 
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%
+}
+
 .table {
   width: 90vw;
-  margin: 0 auto;
+  margin: 5vh auto;
 }
 
 .aside {
@@ -20,14 +26,32 @@
 }
 
 .box {
+  transition: all ease .2s;
   height: 5vw;
   width: 5vw;
+  position: relative;
+  top: 0;
+  left: 0;
   box-sizing: border-box;
   border: solid white 2px;
+  text-rendering: optimizeLegibility;
+  transform-origin: 0 0;
 }
 
-.box1 {
+.box.is-open {
+  transform: scale(6.0);
+  border: solid white 4px;
+  z-index: 100;
+}
 
+.name {
+  font-size: 10px;
+  text-align: center;
+}
+
+.abbrev {
+  padding: 2px;
+  margin: 0;
 }
 
 .hydrogen {
@@ -35,43 +59,43 @@
 }
 
 .basic-metal {
-  background-color: yellow;
+  background-color: #c6ffa4;
 }
 
 .non-metal {
-  background-color: aqua;
+  background-color: #ffa0f9;
 }
 
 .semi-metal {
-  background-color: green;
+  background-color: #aa6be8;
 }
 
 .transition-metal {
-  background-color: pink;
+  background-color: #5a5fff;
 }
 
 .noble {
-  background-color: purple;
+  background-color: #469fe8;
 }
 
 .halogen {
-  background-color: tomato;
+  background-color: #4dfff3;
 }
 
 .alkali-metal {
-  background-color: gray;
+  background-color: #ffc384;
 }
 
 .alkaline-earth {
-  background-color: orange;
+  background-color: #e87e9d;
 }
 
-.actinide {
-  background-color: turquoise;
+.actinoid {
+  background-color: #ff8691;
 }
 
 .lanthanide {
-  background-color: PaleGoldenRod;
+  background-color: #3ce877;
 }
 
 .right {

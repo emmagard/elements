@@ -1,0 +1,8 @@
+<div class="row row4">
+  <% data.elements.elements[18..35].each do |element| %>
+    <div class="box left <%= element.category %>">
+      <p class="abbrev"><%= element.abbrev %></p>
+      <p class="name"><%= element.name %></p>
+    </div>
+  <% end %>
+</div>

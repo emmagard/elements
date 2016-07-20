@@ -13,272 +13,326 @@
     {
       "name":"Lithium",
       "abbrev":"He",
-      "number": 3
+      "number": 3,
+      "category": "alkali-metal"
     },
     {
       "name":"Beryllium",
       "abbrev":"Be",
-      "number": 4
+      "number": 4,
+      "category":"alkaline-earth"
     },
     {
       "name":"Boron",
       "abbrev":"B",
-      "number": 5
+      "number": 5,
+      "category":"semi-metal"
     },
     {
       "name":"Carbon",
       "abbrev":"C",
-      "number": 6
+      "number": 6,
+      "category":"non-metal"
     },
     {
       "name":"Nitrogen",
       "abbrev":"N",
-      "number": 7
+      "number": 7,
+      "category":"non-metal"
     },
     {
       "name":"Oxygen",
       "abbrev":"O",
-      "number": 8
+      "number": 8,
+      "category":"non-metal"
     },
     {
       "name":"Flourine",
       "abbrev":"F",
-      "number": 9
+      "number": 9,
+      "category":"halogen"
     },
     {
       "name":"Neon",
       "abbrev":"Ne",
-      "number": 10
+      "number": 10,
+      "category":"noble"
     },
     {
       "name":"Sodium",
       "abbrev":"Na",
-      "number": 11
+      "number": 11,
+      "category":"alkali-metal"
     },
     {
       "name":"Magnesium",
       "abbrev":"Mg",
-      "number": 12
+      "number": 12,
+      "category":"alkaline-earth"
     },
     {
       "name":"Aluminum",
       "abbrev":"Al",
-      "number": 13
+      "number": 13,
+      "category":"basic-metal"
     },
     {
       "name":"Silicon",
       "abbrev":"Si",
-      "number": 14
+      "number": 14,
+      "category":"semi-metal"
     },
     {
       "name":"Phosphorus",
       "abbrev":"P",
-      "number": 15
+      "number": 15,
+      "category":"non-metal"
     },
     {
       "name":"Sulfur",
       "abbrev":"S",
-      "number": 16
+      "number": 16,
+      "category":"non-metal"
     },
     {
       "name":"Chlorine",
       "abbrev":"Cl",
-      "number": 17
+      "number": 17,
+      "category":"halogen"
     },
     {
       "name":"Argon",
       "abbrev":"Ar",
-      "number": 18
+      "number": 18,
+      "category":"noble"
     },
     {
       "name":"Potassium",
       "abbrev":"K",
-      "number": 19
+      "number": 19,
+      "category":"alkali-metal"
     },
     {
       "name":"Calcium",
       "abbrev":"Ca",
-      "number": 20
+      "number": 20,
+      "category":"alkaline-earth"
     },
     {
       "name":"Scandium",
       "abbrev":"Sc",
-      "number": 21
+      "number": 21,
+      "category":"transition-metal"
     },
     {
       "name":"Titanium",
       "abbrev":"Ti",
-      "number": 22
+      "number": 22,
+      "category":"transition-metal"
     },
     {
       "name":"Vanadium",
       "abbrev":"V",
-      "number": 23
+      "number": 23,
+      "category":"transition-metal"
     },
     {
       "name":"Chromium",
       "abbrev":"Cr",
-      "number": 24
+      "number": 24,
+      "category":"transition-metal"
     },
     {
       "name":"Manganese",
       "abbrev":"Mn",
-      "number": 25
+      "number": 25,
+      "category":"transition-metal"
     },
     {
       "name":"Iron",
       "abbrev":"Fe",
-      "number": 26
+      "number": 26,
+      "category":"transition-metal"
     },
     {
       "name":"Cobalt",
       "abbrev":"Co",
-      "number": 27
+      "number": 27,
+      "category":"transition-metal"
     },
     {
       "name":"Nickel",
       "abbrev":"Ni",
-      "number": 28
+      "number": 28,
+      "category":"transition-metal"
     },
     {
       "name":"Copper",
       "abbrev":"Cu",
-      "number": 29
+      "number": 29,
+      "category":"transition-metal"
     },
     {
       "name":"Zinc",
       "abbrev":"Zn",
-      "number": 30
+      "number": 30,
+      "category":"transition-metal"
     },
     {
       "name":"Gallium",
       "abbrev":"Ga",
-      "number": 31
+      "number": 31,
+      "category":"basic-metal"
     },
     {
       "name":"Germanium",
       "abbrev":"Ge",
-      "number": 32
+      "number": 32,
+      "category":"semi-metal"
     },
     {
       "name":"Arsenic",
       "abbrev":"As",
-      "number": 33
+      "number": 33,
+      "category":"semi-metal"
     },
     {
       "name":"Selenium",
       "abbrev":"Se",
-      "number": 34
+      "number": 34,
+      "category":"non-metal"
     },
     {
       "name":"Bromine",
       "abbrev":"Br",
-      "number": 35
+      "number": 35,
+      "category":"halogen"
     },
     {
       "name":"Krypton",
       "abbrev":"Kr",
-      "number": 36
+      "number": 36,
+      "category":"noble"
     },
     {
       "name":"Rubidium",
       "abbrev":"Rb",
-      "number": 37
+      "number": 37,
+      "category":"alkali-metal"
     },
     {
       "name":"Strontium",
       "abbrev":"Sr",
-      "number": 38
+      "number": 38,
+      "category":"alkaline-earth"
     },
     {
       "name":"Yttrium",
       "abbrev":"Y",
-      "number": 39
+      "number": 39,
+      "category":"transition-metal"
     },
     {
       "name":"Zirconium",
       "abbrev":"Zr",
-      "number": 40
+      "number": 40,
+      "category":"transition-metal"
     },
     {
       "name":"Niobium",
       "abbrev":"Nb",
-      "number": 41
+      "number": 41,
+      "category":"transition-metal"
     },
     {
       "name":"Molybdenum",
       "abbrev":"Mo",
-      "number": 42
+      "number": 42,
+      "category":"transition-metal"
     },
     {
       "name":"Technetium",
       "abbrev":"Tc",
-      "number": 43
+      "number": 43,
+      "category":"transition-metal"
     },
     {
       "name":"Ruthenium",
       "abbrev":"Ru",
-      "number": 44
+      "number": 44,
+      "category":"transition-metal"
     },
     {
       "name":"Rhodium",
       "abbrev":"Rh",
-      "number": 45
+      "number": 45,
+      "category":"transition-metal"
     },
     {
       "name":"Palladium",
       "abbrev":"Pd",
-      "number": 46
+      "number": 46,
+      "category":"transition-metal"
     },
     {
       "name":"Silver",
       "abbrev":"Ag",
-      "number": 47
+      "number": 47,
+      "category":"transition-metal"
     },
     {
       "name":"Cadmium",
       "abbrev":"Cd",
-      "number": 48
+      "number": 48,
+      "category":"transition-metal"
     },
     {
       "name":"Indium",
       "abbrev":"In",
-      "number": 49
+      "number": 49,
+      "category":"basic-metal"
     },
     {
       "name":"Tin",
       "abbrev":"Sn",
-      "number": 50
+      "number": 50,
+      "category":"basic-metal"
     },
     {
       "name":"Antimony",
       "abbrev":"Sb",
-      "number": 51
+      "number": 51,
+      "category":"semi-metal"
     },
     {
       "name":"Tellurium",
       "abbrev":"Te",
-      "number": 52
+      "number": 52,
+      "category":"semi-metal"
     },
     {
       "name":"Iodine",
       "abbrev":"I",
-      "number": 53
+      "number": 53,
+      "category":"halogen"
     },
     {
       "name":"Xenon",
       "abbrev":"Xe",
-      "number": 54
+      "number": 54,
+      "category":"noble"
     },
     {
       "name":"Caesium",
       "abbrev":"Cs",
-      "number": 55
+      "number": 55,
+      "category":"alkali-metal"
     },
     {
       "name":"Barium",
       "abbrev":"Ba",
-      "number": 56
+      "number": 56,
+      "category":"alkaline-earth"
     },
     {
       "name":"Lanthanum",
@@ -463,101 +517,104 @@
     {
       "name":"Francium",
       "abbrev":"Fr",
-      "number": 87
+      "number": 87,
+      "category":"alkali-metal"
     },
     {
       "name":"Radium",
       "abbrev":"Ra",
       "number": 88,
-      "category":"alkaline earth metal"
+      "category":"alkaline-earth"
     },
     {
       "name":"Actinium",
       "abbrev":"Ac",
       "number": 89,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Thorium",
       "abbrev":"Th",
       "number": 90,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Protactinium",
       "abbrev":"Pa",
       "number": 91,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Uranium",
       "abbrev":"U",
       "number": 92,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Neptunium",
       "abbrev":"Np",
-      "number": 93
+      "number": 93,
+      "category":"actinoid"
     },
     {
       "name":"Plutonium",
       "abbrev":"Pu",
-      "number": 94
+      "number": 94,
+      "category":"actinoid"
     },
     {
       "name":"Americium",
       "abbrev":"Am",
       "number": 95,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Curium",
       "abbrev":"Cm",
       "number": 96,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Berkelium",
       "abbrev":"Bk",
       "number": 97,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Californium",
       "abbrev":"Cf",
       "number": 98,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Einsteinium",
       "abbrev":"Es",
       "number": 99,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Fermium",
       "abbrev":"Fm",
       "number": 100,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Mendelevium",
       "abbrev":"Md",
       "number": 101,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Nobelium",
       "abbrev":"No",
       "number": 102,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Lawrencium",
       "abbrev":"Lr",
       "number": 103,
-      "category":"Actinoid"
+      "category":"actinoid"
     },
     {
       "name":"Rutherfordium",
